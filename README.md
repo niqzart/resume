@@ -39,7 +39,7 @@
 ## Проекты
 ### Текущий проект:
 #### Краткое описание:
-Образовательный портал "Ξ Effect" (Кси Эффект). Находится на стадии разработки. Из рабочего [веб-сайт](https://xieffect.vercel.app/) и [автоматизированная документация бэкэнда](https://xieffect.pythonanywhere.com/doc/).  
+Образовательный портал "Ξ Effect" (Кси Эффект). Находится на стадии разработки. Из рабочего [веб-сайт](https://xieffect.netlify.app/) и [автоматизированная документация бэкэнда](https://xieffect.pythonanywhere.com/doc/). *Возможно нужно разрешить для сайта кросс-сайтные cookie-файлы*.
 ```
 Тестовая учётная запись:
 email:    test@test.test
@@ -52,7 +52,11 @@ password: 123456
 Далее мы займёмся созданием функционала, позволяющего создавать образовательные сообщества (как полностью онлайн, так и смешанного обучения, в роли цифровой оболочки для частных и государственных школ).
 
 #### Моя роль: 
-Ведущий разработчик backend. Стек: Python, Flask, Flask-JWT-Extended, Flask-RESTX, Swagger, Swagger UI, SQLAlchemy, Whoosh Search, Flask-Socketio, pytest.
+Ведущий разработчик backend. Стек: Python, Flask, Flask-JWT-Extended, Flask-RESTX, Swagger, Swagger UI, Python-SocketIO, Flask-SocketIO, AsyncAPI, SQLAlchemy, Whoosh Search, Flask-Socketio, pytest.
+
+### Open-source проекты, практика ради изучения нового (подробности в README самих репозиториев):
+- [flask-socketio-example](https://github.com/qwert45hi/flask-socketio-example): Небольшое пробное приложение с испрользованием Flask-SocketIO
+- [nothing-suspicious](https://github.com/qwert45hi/nothing-suspicious) React-клиент + Flask API с системой пользователей и системой управления контентом
 
 ### Практика для изучения javascript:
 github: https://github.com/qwert45hi/checkers-hackers. Игра шашек через интернет. Разработано мной за несколько недель ради погружения в frontend. Используется React.js, react-router, material-ui, fetch, websockets, Node.js, express, ws. Две недели изучения JS и библиотек до v1.0.4.
