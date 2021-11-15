@@ -56,7 +56,7 @@ password: 123456
 
 ### Open-source проекты, практика ради изучения нового (подробности в README самих репозиториев):
 - [flask-socketio-example](https://github.com/qwert45hi/flask-socketio-example): Небольшое пробное приложение с испрользованием Flask-SocketIO
-- [nothing-suspicious](https://github.com/qwert45hi/nothing-suspicious) React-клиент + Flask API с системой пользователей и системой управления контентом
+- [nothing-suspicious](https://github.com/qwert45hi/nothing-suspicious): React-клиент + Flask API с системой пользователей и системой управления контентом
 
 ### Практика для изучения javascript:
 github: https://github.com/qwert45hi/checkers-hackers. Игра шашек через интернет. Разработано мной за несколько недель ради погружения в frontend. Используется React.js, react-router, material-ui, fetch, websockets, Node.js, express, ws. Две недели изучения JS и библиотек до v1.0.4.
