@@ -15,6 +15,7 @@
   - JavaFX / Swing / AWT
   - Servlets + Java Server Pages
   - Java Server Faces
+  - Spring (Boot, Data, Web, Security)
 
 ### Прочее:
 - Вспомогательное: html, css, git, github
