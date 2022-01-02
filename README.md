@@ -6,10 +6,8 @@
   - pytest
   - [data science](#Конкретно-около-Data-Science:)
 - JavaScript (для полного fullstack-набора):
-  - React.js
-  - Node.js
-  - Next.js
-  - Gatsby
+  - React.js (Next.js, Gatsby)
+  - Node.js (Express, ws, Socketio)
 - Java (основной в университетских работах)
   - JDBC + PostgreSQL
   - JavaFX / Swing / AWT
@@ -53,7 +51,7 @@ password: 123456
 Далее мы займёмся созданием функционала, позволяющего создавать образовательные сообщества (как полностью онлайн, так и смешанного обучения, в роли цифровой оболочки для частных и государственных школ).
 
 #### Моя роль: 
-Ведущий разработчик backend. Стек: Python, Flask, Flask-JWT-Extended, Flask-RESTX, Swagger, Swagger UI, Python-SocketIO, Flask-SocketIO, AsyncAPI, SQLAlchemy, Whoosh Search, Flask-Socketio, pytest.
+Ведущий разработчик backend. Стек: Python, Flask, Flask-JWT-Extended, Flask-RESTX, Swagger, Swagger UI, Python-SocketIO, Flask-SocketIO, AsyncAPI, SQLAlchemy, Whoosh Search, pytest.
 
 ### Open-source проекты, практика ради изучения нового (подробности в README самих репозиториев):
 - [flask-socketio-example](https://github.com/qwert45hi/flask-socketio-example): Небольшое пробное приложение с испрользованием Flask-SocketIO
