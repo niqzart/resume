@@ -56,12 +56,12 @@ password: 123456
 Я сооснаватель этого проекта, ведущий разработчик backend. Занимаюсь как кодом (и теперь даже DevOps-ом), так и распределением задач для других членов команды бэкенда. Стек: Python, Flask, Flask-JWT-Extended, Flask-RESTX, Swagger, Swagger UI, Python-SocketIO, Flask-SocketIO, AsyncAPI, SQLAlchemy, Whoosh Search, pytest.
 
 ### Open-source проекты, практика ради изучения нового (подробности в README самих репозиториев):
-- [checkers-hackers](https://github.com/qwert45hi/checkers-hackers): Игра шашек через интернет. Разработано мной за несколько недель (до версии 1.0.4) ради погружения в frontend
-- [flask-socketio-example](https://github.com/qwert45hi/flask-socketio-example): Небольшое пробное приложение с испрользованием Flask-SocketIO
-- [nothing-suspicious](https://github.com/qwert45hi/nothing-suspicious): React-клиент + Flask API с системой пользователей и системой управления контентом
+- [checkers-hackers](https://github.com/niqzart/checkers-hackers): Игра шашек через интернет. Разработано мной за несколько недель (до версии 1.0.4) ради погружения в frontend
+- [flask-socketio-example](https://github.com/niqzart/flask-socketio-example): Небольшое пробное приложение с испрользованием Flask-SocketIO
+- [nothing-suspicious](https://github.com/niqzart/nothing-suspicious): React-клиент + Flask API с системой пользователей и системой управления контентом
 
 ### Текущие open-source проекты, находящиеся в более ранних стадиях разработки:
-- [flask-fullstack](https://github.com/qwert45hi/flask-fullstack): Библиотека основанная на flask, flask-restx, flask-socketio, sqlalchemy и других с целью упростить создание Web-API
+- [flask-fullstack](https://github.com/niqzart/flask-fullstack): Библиотека основанная на flask, flask-restx, flask-socketio, sqlalchemy и других с целью упростить создание Web-API
 - [moderator-hub](https://github.com/moderator-hub): Коллекция репозиториев (бэкенд и фронтенд), нацеленная на упрощение создания современной админ-панели для крупных проектов
 
 ### Последний опыт в анализе данных (из университета):
