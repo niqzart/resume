@@ -1,4 +1,4 @@
-# Full Stack Python (Middle+ / Senior) + ReactJS Developer (Junior+)
+# Full Stack Python + ReactJS Developer
 
 ## Навыки разработки и инструменты
 ### Основные языки
