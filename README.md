@@ -36,6 +36,17 @@
 - Автоматизированное тестирование
 - Написание технической документации
 
+### Теория Веб-Разработки
+- Модель TCP/IP
+- HTTP(S): основы, кеширование, печенье и т.п.
+- Принципы ReST и RPC
+- Websockets, Short & Long polling
+- NGINX и всё к нему
+
+### Теория CI/CD и DevOps
+- Docker и Docker Compose
+- Github Actions & Gitlab CI
+
 ### Математика
 - Линейная алгебра
 - Математический анализ
@@ -106,6 +117,6 @@ password: 123456
 |     Курс      |       2        |
 
 ## Контакты
-Telegram: https://t.me/niqzart
-Discord: niqzart#9223
-Email: qwert45hi@yandex.ru
+- Telegram: https://t.me/niqzart
+- Discord: niqzart#9223
+- Email: qwert45hi@yandex.ru
